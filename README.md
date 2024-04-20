@@ -11,6 +11,13 @@ Include this library in your Cargo project by adding:
 sorting_library = { git = "https://github.com/dddiias/sorting_library" }
 ```
 
+## Screenshots
+
+![Creating](./imag/creating.jpg)
+![Compilation](./imag/compilation.jpg)
+![Tests](./imag/tests.jpg)
+![Main_example](./imag/main_example.jpg)
+
 ## Examples
 
 Below are examples demonstrating how to use the sorting algorithms included in this library.
