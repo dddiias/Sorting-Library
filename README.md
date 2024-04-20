@@ -13,10 +13,10 @@ sorting_library = { git = "https://github.com/dddiias/sorting_library" }
 
 ## Screenshots
 
-![Creating](./imag/creating.jpg)
-![Compilation](./imag/compilation.jpg)
-![Tests](./imag/tests.jpg)
-![Main_example](./imag/main_example.jpg)
+![Creating](https://github.com/dddiias/sorting_library/tree/main/img/creating.jpg)
+![Compilation](https://github.com/dddiias/sorting_library/tree/main/img/compilation.jpg)
+![Tests](https://github.com/dddiias/sorting_library/tree/main/img/tests.jpg)
+![Main_example](https://github.com/dddiias/sorting_library/tree/main/img/main_example.jpg)
 
 ## Examples
 
